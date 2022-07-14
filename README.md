@@ -1,4 +1,4 @@
-- 👋 Hi, I’m BAshir
+- 👋 Hi, I’m Bashir
 - 👀 I’m interested in Data science/Analytics
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Data Science/Analytics
