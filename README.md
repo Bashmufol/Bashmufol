@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Bashir
-- 👀 I’m interested in Data science/Analytics
-- 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on Data Science/Analytics
+- 👋 Hi, my name is Bashir.
+- 👋 I'm a Junior Data Analyst and Python Programmer.
+- 👀 I’m interested in Data Science/Analytics and Business Analytics.
+- 🌱 I currently use Python to complement SQL and Power BI/Tableau in data querrying, manipulation and visualization.
+- 📫 When I'm not coding, I'm tutoring Aspiring Data Analysts on concepts and ethics to being efficient.
+- 💞️ I’m looking to collaborate on projects that would help me improve my skills and experience.
 - 📫 You can reach me on bashmufol@gmail.com
 
 <!---
