@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Bashir.
+- 👋 Hi, my name is Bash.
 - 👋 I'm a Junior Data Analyst and Python Programmer.
 - 👀 I’m interested in Data Science/Analytics and Business Analytics.
 - 🌱 I currently use Python to complement SQL and Power BI/Tableau in data querrying, manipulation and visualization.
