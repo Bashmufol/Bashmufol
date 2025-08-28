@@ -1,9 +1,14 @@
-- 👋 Hi, my name is Bashir.
-- 👋 I'm an aspiring Java Developer passionate about crafting robust and scalable backend systems.
-- 👀 I’m deeply interested in clean architecture, microservices, and building high-performance enterprise applications.
-- 🌱 I currently leverage Spring Boot, JPA, and various database technologies to design efficient and reliable APIs.
-- 💞️ Seeking collaborative projects to gain hands-on experience and contribute to impactful software solutions
-- 📫 You can reach me on bashmufol@gmail.com
+-👋 Hi, my name is Bashir.
+
+- 💻 I am a Java Developer with a focus on building reliable and efficient backend systems.
+
+- 🔧 Skilled in Java, Spring Boot, REST APIs, and SQL/NoSQL databases, with growing experience in Docker, Kubernetes, and AWS.
+
+- 📚 Interested in clean architecture, microservices, and scalable system design, and continuously improving my skills through real-world projects.
+
+- 🤝 I’m open to collaborative projects where I can grow my skills and contribute to meaningful software solutions.
+
+- 📫 Contact: bashmufol@gmail.com
 
 <!---
 Bashmufol/Bashmufol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
