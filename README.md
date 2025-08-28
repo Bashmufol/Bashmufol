@@ -4,9 +4,9 @@
 
 - 🔧 Skilled in Java, Spring Boot, REST APIs, and SQL/NoSQL databases, with growing experience in Docker, Kubernetes, and AWS.
 
-- 📚 Interested in clean architecture, microservices, and scalable system design, and continuously improving my skills through real-world projects.
+- 📚 Interested in clean architecture, microservices, and scalable system design, and applying these concepts in real-world projects.
 
-- 🤝 I’m open to collaborative projects where I can grow my skills and contribute to meaningful software solutions.
+- 🤝 I’m open to collaborative projects where I can grow my skills and contribute to impactful software solutions.
 
 - 📫 Contact: bashmufol@gmail.com
 
