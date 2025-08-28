@@ -1,4 +1,4 @@
--👋 Hi, my name is Bashir.
+👋 Hi, my name is Bashir.
 
 - 💻 I am a Java Developer with a focus on building reliable and efficient backend systems.
 
