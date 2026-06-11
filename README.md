@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bashmufol@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Bashmufol&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Bashmufol)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D4A574&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+4+%7C+Java+21;Building+Legally;REST+APIs+%7C+System+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D4A574&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+4+%7C+Java+21;Building+Authguard;REST+APIs+%7C+System+Design)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,7 +17,7 @@
 
 **Java Backend Developer** with **3+ years** of experience building production REST APIs, containerized services, and cloud-backed systems.
 
-- 🔭 Currently focused on **[Legally](https://github.com/Bashmufol/Legally)** — multimodal legal-information API (Spring Boot 4, Cloud Run, multi-LLM failover)
+- 🔭 Currently focused on **[Authguard](https://github.com/Bashmufol/AuthGuard-API)** — multimodal(Spring Boot 4, Cloud Run, multi-LLM failover)
 - 🔧 Skilled in **Java**, **Spring Boot**, **REST APIs**, and **SQL/NoSQL databases**, with growing experience in **Docker**, **Kubernetes**, and **AWS**.
 - 📚 Interested in **clean architecture**, **microservices**, and **scalable system design**, and applying these concepts in real-world projects.
 - 🤝 I’m open to collaborative projects where I can grow my skills and contribute to impactful software solutions.
@@ -60,23 +60,23 @@
 
 ## 🚀 Featured Projects
 
-### [Legally](https://github.com/Bashmufol/Legally) — Legal information API (flagship)
+### [Authguard](https://github.com/Bashmufol/AuthGuard-API) — (flagship)
+
+Multimodal consults (text, voice, files), jurisdiction resolution, and **ordered multi-LLM failover** (Gemini + fallbacks). Session-scoped history on **Cloud SQL**, auth and storage via **Firebase**, deployed on **Cloud Run**.
+
+`Java 21` · `Spring Boot 4` · `Spring AI` · `PostgreSQL` · `Firebase` · `GCP` · `Docker`
+
+🔗 [Live demo]() · [Source code](https://github.com/Bashmufol/AuthGuard-API) · [Backend system design & diagrams](https://REPLACE_WITH_YOUR_PORTFOLIO_URL/projects/legally/architecture)
+
+---
+
+### [Legally](https://github.com/Bashmufol/Legally) — Legal information API
 
 Multimodal consults (text, voice, files), jurisdiction resolution, and **ordered multi-LLM failover** (Gemini + fallbacks). Session-scoped history on **Cloud SQL**, auth and storage via **Firebase**, deployed on **Cloud Run**.
 
 `Java 21` · `Spring Boot 4` · `Spring AI` · `PostgreSQL` · `Firebase` · `GCP` · `Docker`
 
 🔗 [Live demo](https://legally-7f34d.web.app/) · [Source code](https://github.com/Bashmufol/Legally) · [Backend system design & diagrams](https://REPLACE_WITH_YOUR_PORTFOLIO_URL/projects/legally/architecture)
-
----
-
-### [Portfolio Website](https://github.com/Bashmufol/portfolio-website) — Full-stack portfolio
-
-Professional portfolio with **Spring Boot 4** contact API, **React 19 + TypeScript**, per-project **backend architecture** documentation, light/dark mode, and production JAR / static deploy options.
-
-`Spring Boot 4` · `React` · `TypeScript` · `Tailwind CSS` · `Vite`
-
-🔗 [Portfolio](https://REPLACE_WITH_YOUR_PORTFOLIO_URL) · [Source code](https://github.com/Bashmufol/portfolio-website)
 
 ---
 
