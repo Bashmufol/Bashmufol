@@ -92,7 +92,7 @@
 
 ## 🚀 Featured Projects
 
-### ⭐ [Authguard](https://bashmufol.vercel.app/projects/authguard/architecture) — Flagship
+### ⭐ [Authguard](https://motion-markets-factor-prostores.trycloudflare.com/) — Flagship
 
 Multi-tenant B2B access control for teams that need consistent authorization across multiple applications without rebuilding RBAC in every service. Supports project-scoped roles and permissions, API key governance, JWT token exchange, centralized authorize checks, MFA step-up, and an append-only audit trail.
 
