@@ -199,7 +199,7 @@ public class BashirMuhammed {
 
 I'm open to backend opportunities, technical discussions, and collaborations on well-scoped Java systems.
 
-- 🌐 [Portfolio](https://bashmufol.vercel.app/)
+- 🌐 [Portfolio]()
 - 💼 [LinkedIn](https://linkedin.com/in/bashir-muhammed)
 - 📧 [bashirmuhammed0923@gmail.com](mailto:bashirmuhammed0923@gmail.com)
 
