@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-**Java Backend Developer** based in **Lagos, Nigeria**, with **2+ years** of experience building production REST APIs, microservices, and cloud-backed systems.
+**Java Backend Developer** based in **Lagos, Nigeria**, with years of experience building production REST APIs, microservices, and cloud-backed systems.
 
 - 🔭 Currently focused on **[Authguard](https://motion-markets-factor-prostores.trycloudflare.com/)** — a multi-tenant B2B access control platform built with Spring Boot microservices
 - 🔧 Strong in **Java**, **Spring Boot**, **SQL/NoSQL**, **microservices**, **JWT security**, and **cloud deployments** on **AWS** and **GCP**
