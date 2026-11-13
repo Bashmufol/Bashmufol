@@ -2,7 +2,7 @@
 
 # Hi there, I'm Bashir Muhammed 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://bashmufol.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bashir-muhammed)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bashirmuhammed0923@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Bashmufol&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Bashmufol)
